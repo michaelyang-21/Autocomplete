@@ -1,1 +1,1 @@
-small autocomplete implementation
+implementation of search autocomplete
